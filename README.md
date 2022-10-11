@@ -1,6 +1,7 @@
 # AWS Cloud Server
 
 ## Author: Tyler Main
+## Credit: Luis Rosales, Brandon Pitts
 
 ## Problem Domain
 
